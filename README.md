@@ -1,7 +1,7 @@
-# churnkey support assessment
-# Arthur Holmes
-# arthur@arthurholmes.com
-# http://churnkey.arthurholmes.com/my_account.php
+churnkey support assessment
+Arthur Holmes
+arthur@arthurholmes.com
+http://churnkey.arthurholmes.com/my_account.php
 
 Sure, here's the original text with cleaned-up grammar:
 

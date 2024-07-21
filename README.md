@@ -4,7 +4,7 @@ Arthur Holmes
 
 arthur@arthurholmes.com
 
-http://churnkey.arthurholmes.com/my_account.php
+https://churnkey.arthurholmes.com/my_account.php
 
 Instructions to run the code locally:
 
@@ -45,4 +45,4 @@ Instructions to run the code locally:
 18. Click the cancel button and follow the steps: [Cancel Button](https://ibb.co/dr4FnYr).
 
 **** Note: ******
-if the above does not work and all you simply wish to do is see this working in action, visit: http://churnkey.arthurholmes.com/my_account.php
+if the above does not work and all you simply wish to do is see this working in action, visit: https://churnkey.arthurholmes.com/my_account.php
